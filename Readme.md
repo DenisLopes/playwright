@@ -1,9 +1,6 @@
-# QA Tech Week - Primeira Edição
-
-Bem-vindo ao repositório do **QA Tech Week - Primeira Edição**! Aqui você encontrará as instruções para configurar o ambiente, subir os serviços necessários e rodar os testes automatizados com Playwright.
+Bem-vindo ao repositório Aqui você encontrará as instruções para configurar o ambiente, subir os serviços necessários e rodar os testes automatizados com Playwright.
 
 ## 📌 Pré-requisitos
-Antes de começar, certifique-se de ter os seguintes softwares instalados em seu sistema:
 
 - [Git for Windows](https://gitforwindows.org/)
 - [Visual Studio Code](https://code.visualstudio.com/)
