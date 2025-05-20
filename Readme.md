@@ -15,11 +15,7 @@ Bem-vindo ao repositório Aqui você encontrará as instruções para configurar
 ## 🚀 Configuração do Ambiente
 1. Faça um Fork do projeto
 2. Clone este repositório:
-   ```sh
-   git clone git@github.com:seu-usuario/qatw-primeira-edicao.git
-   cd qatw-primeira-edicao
-   ```
-   
+     
 ## 🐳 Subindo o Ambiente com Docker Compose
 O projeto utiliza Docker Compose para gerenciar os serviços necessários para os testes.
 
